@@ -16,7 +16,7 @@ Script Sender: [Exercise1Sender.cs](scripts/Exercise1Sender.cs)
 
 2. Cuando el cubo colisiona con cualquier objeto que no sean esferas del grupo 1, las esferas en el grupo 1 se acercan al cilindro. Cuando el cubo toca cualquier esfera del grupo 1, las esferas del grupo 2 aumentan de tamaño.
 
-![Ejercicio2](images/Ejercicio2.gif)
+![Ejercicio2](gifs/Ejercicio2.gif)
 
 Script Listener: [Exercise2Listener.cs](scripts/Exercise2Listener.cs)
 Script Sender: [Exercise2Sender.cs](scripts/Exercise2Sender.cs)
