@@ -16,7 +16,7 @@ Script Sender: [Exercise1Sender.cs](scripts/Exercise1Sender.cs)
 
 2. Cuando el cubo colisiona con cualquier objeto que no sean esferas del grupo 1, las esferas en el grupo 1 se acercan al cilindro. Cuando el cubo toca cualquier esfera del grupo 1, las esferas del grupo 2 aumentan de tamaño.
 
-![Ejercicio2](images/Ejercicio2.png)
+![Ejercicio2](images/Ejercicio2.gif)
 
 Script Listener: [Exercise2Listener.cs](scripts/Exercise2Listener.cs)
 Script Sender: [Exercise2Sender.cs](scripts/Exercise2Sender.cs)
@@ -43,6 +43,8 @@ Script Sender: [Exercise4Sender.cs](scripts/Exercise4Sender.cs)
 
 5. Partiendo del script anterior crea una interfaz que muestre la puntuación que va obteniendo el cubo. 
 
+![Ejercicio5](gifs/Ejercicio5.gif)
+
 Script Listener: [Exercise5Listener.cs](scripts/Exercise5Listener.cs)
 Script Sender: [Exercise5Sender.cs](scripts/Exercise5Sender.cs)
 
@@ -50,6 +52,5 @@ Script Sender: [Exercise5Sender.cs](scripts/Exercise5Sender.cs)
 
 6. Genera una escena que incluya elementos que se ajusten a la escena del prototipo y alguna de las mecánicas anteriores.
 
-![Ejercicio6](gifs/Ejercicio6.gif)
 
 ---
